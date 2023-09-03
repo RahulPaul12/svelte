@@ -28,7 +28,7 @@
 
 
 <style>
-  /* .section {
+  .section {
     display: grid;
     width: 100%;
     height: 100vh;
@@ -109,7 +109,7 @@
     }
   [class*="section-item--"] {
   width: 100%;}
-} */
+}
 
 
 </style>
